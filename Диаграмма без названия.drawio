@@ -55,7 +55,7 @@
         <mxCell id="NSRhUQKnSMSARuMSzFOF-29" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="quizAttempts" vertex="1">
           <mxGeometry height="130" width="158.25" x="270" y="540" as="geometry" />
         </mxCell>
-        <mxCell id="NSRhUQKnSMSARuMSzFOF-30" parent="NSRhUQKnSMSARuMSzFOF-29" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="_id&lt;div&gt;studentId&lt;/div&gt;&lt;div&gt;courseId&lt;/div&gt;&lt;div&gt;quizId&lt;/div&gt;&lt;div&gt;score&lt;/div&gt;" vertex="1">
+        <mxCell id="NSRhUQKnSMSARuMSzFOF-30" parent="NSRhUQKnSMSARuMSzFOF-29" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="_id&lt;div&gt;studentId&lt;/div&gt;&lt;div&gt;quizId&lt;/div&gt;&lt;div&gt;score&lt;/div&gt;" vertex="1">
           <mxGeometry height="85" width="120" y="25" as="geometry" />
         </mxCell>
       </root>
